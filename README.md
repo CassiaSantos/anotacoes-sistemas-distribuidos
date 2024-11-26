@@ -56,3 +56,21 @@ Dispositivo que apresenta: procesamento, memória e armazenamento.
 
 ## Atividade:
 Escolher um sistema distribuído utilizado no dia a dia e descrever porque eu acho que essa aplicação é um sistema distribído em 10 a 15 linhas.
+
+
+## Aula 02 - Conceitos de SIstemas Distribuídos
+- CDN: Rede de Distribuíção de Conteúdo (Content Delivery Network) -  Basicamente, uma CDN reproduz o conteúdo que está armazenado no servidor central. A versão reproduzida do conteúdo vai, então, ser salva em locais de várias regiões do planeta, chamados de Pontos de Presença (PoP, do inglês). Esses Pontos são os locais em que mais de duas redes fazem a conexão consigo mesmas.   
+- PTT: interligação de provedor de serviços com provedor de conteúdo;
+- IX
+- ler sobre a documentação do torrent e serviço de e-mail para saber como funciona
+
+### Tipos de Sistemas distribuídos:
+- Sistemas de Computação distribuídos
+      - cluster: poder de processamento. Várias máquinas (homogênea: como mesmo sistemas operacional) unidas para conseguir processamento paralelo. Neste caso, não faz sentido utilizar neles softwares de processamento sequencial.
+      - grade: heterogênea 
+
+- Sistemas de Informação distribuídos
+     - Sistemas de processamento de transações
+     - integração de aplicações empresariais
+
+- Sistemas distribuídos pervasisvos 
