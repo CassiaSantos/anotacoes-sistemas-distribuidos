@@ -74,3 +74,16 @@ Escolher um sistema distribuído utilizado no dia a dia e descrever porque eu ac
      - integração de aplicações empresariais
 
 - Sistemas distribuídos pervasisvos 
+
+
+
+## Aula de metas de projeto em sistemas distribuídos
+### Metas de projeto:
+- acesso a recursos: tem o objetivo de facilitar o acesso e compartilhamento de recursos remotos de maneira controlada e eficiente;
+- Transparencia da distribuição: ocutação de um recurso ou falha - pode ser de acesso, localização, migração, relocação, replicação, concorrência, falha.
+- Abertura - disponibilização do sistema para outras pessoas ou sistemas;
+- Escalabilidade: em termos: de capacidade, geográficos e administrativos
+- Ciladas
+
+### Problemas de escalabilidade administrativa:
+- dificil de estabelecer políticas de uso e pagamento de: recursos, gerenciamento e segurança;
