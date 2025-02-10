@@ -87,3 +87,17 @@ Escolher um sistema distribuído utilizado no dia a dia e descrever porque eu ac
 
 ### Problemas de escalabilidade administrativa:
 - dificil de estabelecer políticas de uso e pagamento de: recursos, gerenciamento e segurança;
+
+
+## Sincronização:
+- utilizar relógios para medir a duração de "eventos";
+- Tempo: série initerrupta da sequência de instantes;
+- A medição do tempo é uma aproximação, a medição de um tempo 100% certo não existe;
+- O ajuste de relógio precisa ocorrer porque cada dispositivo tem uma contagem de tempo diferente de outro;
+- Nosso dia: tem 23 horas, 56 minutos e 4 segundos;
+- UTC: Coordenador de tempo universal;
+- Centro: Londres (Big Ben). Oriente: positivo, Ocidente: negativo.
+- Se não haver a sincronização dos relógios e controle de tempo, haverá um problema de consistência;
+#### Tipos de Sincronização:
+- ajuste a partir de um contexto de referência (média dos horários);
+- algoritmo de lamport;
